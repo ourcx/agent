@@ -130,7 +130,7 @@ if __name__ == "__main__":
     )
 
     # 4.4 运行一个测试问题
-    question = "搜索https://datawhalechina.github.io/hello-agents这个网页"
+    question = "生命的意义是是什么，需要搜索网页实现"
     answer = agent.run(question)
 
     # 4.5 输出最终答案
